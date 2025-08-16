@@ -1,2 +1,5 @@
 A captivating digital painting of a fair-skinned young woman with flowing blonde hair partially tied back revealing delicate curls, adorned with a large, dark, intricately detailed black rose headpiece. She has striking light green eyes, subtle makeup including a red lip, and delicate features. She is wearing an elaborate, high-necked black gown with sheer, lacy details on the sleeves and bodice, and a full, layered skirt with shimmering accents. The background features a softly blurred, ornate setting with hints of light and shadow, and glowing, ethereal circular patterns and sparkling particles surrounding her, creating a magical and slightly gothic atmosphere.
+
+一幅迷人的数码画作描绘了一位白皙肌肤的年轻女子，她将飘逸的金发部分束在脑后，露出精致的卷发，头戴一顶硕大、深色、细节精致的黑玫瑰头饰。她有着引人注目的浅绿色眼眸，淡雅的妆容，包括红唇，五官精致。她身着精致的高领黑色礼服，袖口和上身饰有透明蕾丝，下身则是一件带有闪亮装饰的层叠长裙。背景是一片柔和模糊的华丽布景，点缀着光影，周围环绕着闪闪发光、空灵飘逸的圆形图案和闪耀的粒子，营造出一种魔幻而略带哥特风的氛围。
+
 <img width="768" height="1408" alt="image" src="https://github.com/user-attachments/assets/21cd2a9e-2abd-4574-9479-77d9fb7ef0d4" />
