@@ -1,8 +1,10 @@
 {
     "cityname" : "Kyoto",
-    "case":"Fushimi Inari-taisha",
+    "case": "Fushimi Inari-taisha",
+    "closestyle": "Traditional"
     "acessssory":"umbrella"
 }
+
 
 
 
